@@ -1,0 +1,6 @@
+<resources>
+    <string name="tab_text_1">Addresses</string>
+    <string name="tab_text_2">Traffic light</string>
+    <string name="app_name">Three letters</string>
+    <string name="players">Players</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Три письма</string>
+    <string name="tab_text_1">Адреса</string>
+    <string name="tab_text_2">Светофор</string>
+    <string name="players">Игроки</string>
+</resources>
